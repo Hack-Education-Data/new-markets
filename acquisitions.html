@@ -1,0 +1,21 @@
+---
+layout: default
+title: New Markets' Acquisitions
+---
+
+<h2>New Markets' Acquistitions</h2>
+
+<!-- Organizations -->
+{% assign acquisitions = site.data.acquisitions %}
+{% assign acquisitions = acquisitions | sort:"Name" %}
+
+<!-- Document -->
+
+{% for acquisition in acquisitions %}
+
+<ul>
+<li><strong>{{ acquisition.Name }}</strong> ({{ acquisition.Date }})</li>
+</ul>
+
+{% endfor %}
+
