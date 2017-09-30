@@ -1,39 +1,18 @@
-- Name: Signal Vine
-  Date: '2017'
-  Notes: $2 million in Series A
-- Name: Regent Education
-  Date: '2017'
-  Notes: $8.5 million in venture funding
-- Name: Motimatic
-  Date: '2017'
-  Notes: $3.4 million in Series A
-- Name: Noodle Partners
-  Date: '2016'
-  Notes: $4 million in seed funding
-- Name: Credly
-  Date: '2016'
-  Notes: $2.5 million in seed funding
+- Name: Questar Assessment
+  Date: '2009'
+  Notes: $4.6 million in private equity
+- Name: Moodlerooms
+  Date: '2010'
+  Notes: $7.15 million in venture funding
 - Name: BetterLesson
-  Date: '2016'
-  Notes: $6 million in Series A
-- Name: PresenceLearning
-  Date: '2015'
-  Notes: $25 million in Series C
-- Name: Mashable
-  Date: '2015'
-  Notes: $17 million in Series B
-- Name: Fishtree Inc
-  Date: '2014'
-  Notes: $3 million in Series A
-- Name: Three Ring
-  Date: '2014'
-  Notes: $1.75 million in Series A
-- Name: Regent Education
-  Date: '2014'
-  Notes: $4 million in Series C
-- Name: Mashable
-  Date: '2014'
-  Notes: $14 million in Series A
+  Date: '2011'
+  Notes: $1.6 million in Series A
+- Name: Think Through Learning
+  Date: '2011'
+  Notes: $4.6 million in Series B
+- Name: The American Academy
+  Date: '2012'
+  Notes: $6 million in Series C
 - Name: Think Through Learning
   Date: '2013'
   Notes: $5.6 milliom in Series B
@@ -46,18 +25,42 @@
 - Name: Kickboard
   Date: '2013'
   Notes: $2 million in Series A
-- Name: The American Academy
-  Date: '2012'
-  Notes: $6 million in Series C
+- Name: Fishtree Inc
+  Date: '2014'
+  Notes: $3 million in Series A
+- Name: Three Ring
+  Date: '2014'
+  Notes: $1.75 million in Series A
+- Name: Regent Education
+  Date: '2014'
+  Notes: $4 million in Series C
+- Name: Mashable
+  Date: '2014'
+  Notes: $14 million in Series A
+- Name: PresenceLearning
+  Date: '2015'
+  Notes: $25 million in Series C
+- Name: Mashable
+  Date: '2015'
+  Notes: $17 million in Series B
+- Name: Noodle Partners
+  Date: '2016'
+  Notes: $4 million in seed funding
+- Name: Credly
+  Date: '2016'
+  Notes: $2.5 million in seed funding
 - Name: BetterLesson
-  Date: '2011'
-  Notes: $1.6 million in Series A
-- Name: Think Through Learning
-  Date: '2011'
-  Notes: $4.6 million in Series B
-- Name: Moodlerooms
-  Date: '2010'
-  Notes: $7.15 million in venture funding
-- Name: Questar Assessment
-  Date: '2009'
-  Notes: $4.6 million in private equity
+  Date: '2016'
+  Notes: $6 million in Series A
+- Name: Signal Vine
+  Date: '2017'
+  Notes: $2 million in Series A
+- Name: Regent Education
+  Date: '2017'
+  Notes: $8.5 million in venture funding
+- Name: Motimatic
+  Date: '2017'
+  Notes: $3.4 million in Series A
+- Name: Credly
+  Date: '2017'
+  Notes: $4.6 million in venture funding
